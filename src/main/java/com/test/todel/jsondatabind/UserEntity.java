@@ -19,7 +19,6 @@ public class UserEntity {
         this.name = name;
     }
 
-    /** ʵ���ʶ�� */
     @JsonProperty("UID")
     private String uid;
 

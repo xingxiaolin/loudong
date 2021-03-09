@@ -9,9 +9,6 @@ import com.test.todel.jsondatabind.UserEntity;
 
 public class JsonTEST {
 
-//	 public static void main( String[] args ) {
-//		Entity entity = new Entity("James", "James");
-
 		  public static void main(String[] args) throws JsonProcessingException {
 			  UserEntity user = new UserEntity();
 		        user.setName("zhangsan");
